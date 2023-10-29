@@ -16,4 +16,4 @@
 
 Let's work together to turn your web development ideas into reality. Feel free to reach out and let's discuss how I can assist you in achieving your online goals.
 
-📧 Contact me at farad.alam1997@gmail.com
+📧 Contact me at farad.dev@gmail.com
