@@ -1,19 +1,36 @@
-# **Hello, Welcome form Farad,😀**
+### Hi there, I'm Farad Alam Foisal 👋
+I'm a passionate Django developer and backend engineer, with experience building robust e-commerce platforms and REST APIs. I enjoy solving complex backend challenges and constantly learning new technologies to enhance my development skills.
 
-👋 I'm Farad, a seasoned Django developer with over 3 years of experience in crafting robust and feature-rich web applications. My passion for Python and web development has led me to become proficient in a wide range of technologies and frameworks, including Django, Flask, Python, Bootstrap, React.js, CSS, SQL, Redis, and more.
+---
 
-## **💡 Here's what you can expect when working with me:**
+### 🚀 Skills & Technologies
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks**: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Other tools**: Docker, Git, Celery, Redis, Bootstrap, Tailwind
 
-**Proficient in Django:** I have a deep understanding of Django, allowing me to create scalable, secure, and maintainable web applications. Whether you need a content management system, an e-commerce platform, or a custom web solution, I've got you covered.
+---
 
-**Full-Stack Development:** I am well-versed in both front-end and back-end technologies, enabling me to build cohesive, end-to-end solutions. I can handle everything from crafting responsive user interfaces to managing databases and server-side logic.
+### 📂 Projects
+- **[Django Multivendor Ecommerce](https://github.com/farad-alam/Multi-Vendor-Ecommerce)**: A scalable, multi-vendor platform with full e-commerce functionality.
+- **[Flask Ecommerce with Stripe](https://github.com/farad-alam/Flask-Ecommerce)**: A Flask-based e-commerce site integrated with Stripe payments.
+- **[Django To-Do REST API](https://github.com/farad-alam/Django-ToDo-REST-API)**: A task management REST API built with Django REST Framework and PostgreSQL.
+- **[Chat With PDF (LangChain, Gemini AI, Mistral AI)](https://github.com/farad-alam/Chat-With-PDF-Using-LangChain-Gemini)**: A project that integrates AI with PDFs for smart text generation.
+- **[Django Blog Automation with OpenAI](https://github.com/farad-alam/Django-Blog-Automation-Web-App)**: Automating blog article generation using OpenAI and Django.
 
-**Data Management**: With expertise in SQL and Redis, I can efficiently handle your data needs, from structuring databases to caching and optimizing data retrieval.
+---
 
-**Collaborative Approach:** I believe in close collaboration with clients to ensure that the end product aligns with their vision and requirements. Communication is key to project success.
+### 🌱 Currently Learning
+- React for front-end development
+- API development with GraphQL
 
-**Continuous Learning:** Technology is ever-evolving, and I stay up-to-date with the latest developments to bring innovation and best practices to your project.
+---
 
-Let's work together to turn your web development ideas into reality. Feel free to reach out and let's discuss how I can assist you in achieving your online goals.
+### 📊 GitHub Stats
+![Farad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farad-alam&show_icons=true&theme=radical)
 
-📧 Contact me at farad.dev@gmail.com
+---
+
+### 📫 How to reach me
+- **Email**: [farad.dev@gmail.com](mailto:farad.dev@gmail.com)
+- **LinkedIn**: [Farad Alam Foisal](https://www.linkedin.com/in/farad-alam-foisal/)
