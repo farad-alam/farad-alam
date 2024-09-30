@@ -1,5 +1,5 @@
 ### Hi there, I'm Farad Alam Foisal 👋
-I'm a passionate Django developer and backend engineer, with experience building robust e-commerce platforms and REST APIs. I enjoy solving complex backend challenges and constantly learning new technologies to enhance my development skills.
+A dedicated Django developer and backend engineer with a strong focus on building scalable web applications and APIs. My expertise lies in creating robust, secure systems that power modern web experiences. I have a passion for solving complex backend challenges and continuously expanding my technical skill set.
 
 ---
 
