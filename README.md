@@ -79,20 +79,6 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 ---
 
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Farad on LinkedIn"/>](https://www.linkedin.com/in/farad-alam-foisal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://farad-alam.vercel.app/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Farad on Twitter"/>](https://x.com/farad_alamv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-
----
-
 
 ### 🌱 Currently Learning
 - Node.js for backend-end development
@@ -102,6 +88,19 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 
 ### 📊 GitHub Stats
 ![Farad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farad-alam&show_icons=true&theme=radical)
+
+---
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farad-alam-foisal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://farad-alam.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/farad_alam)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801575061066)
+
+
+- **Email**: [farad.dev@gmail.com](mailto:farad.dev@gmail.com)
+- **Phone**: +8801575061066
+
 
 ---
 
