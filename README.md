@@ -38,9 +38,7 @@ I'm open to collaboration and job opportunities — feel free to reach out!
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=2d79c7">
 </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
+
 
 
 
@@ -53,7 +51,7 @@ I'm open to collaboration and job opportunities — feel free to reach out!
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=2d79c7">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=2d79c7">
