@@ -56,15 +56,7 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=2d79c7">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framermotion&svgfill=2d79c7">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer_motion&svgfill=2d79c7">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer-motion&svgfill=2d79c7">
-</a>
+
 </p>
 
 
@@ -77,6 +69,7 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF3F5D?style=for-the-badge&logo=framer&logoColor=white)
 
 **UI Libraries & Tools:** SweetAlert, Lottie, React Toastify, React Tooltip, Swiper.js, React Rating Stars, Framer Motion
+
 **State Management & Routing:** React Router, Context API  
 **API & Backend Interaction:** Fetch API, Axios, Postman  
 **Database (Basic Integration):** Firebase, MongoDB, PostgreSQL  
