@@ -1,4 +1,4 @@
-![Banar]([https://example.com/logo.png](https://i.ibb.co.com/tTLPGkMw/Linked-In-Cover.png))
+![Banar](https://i.ibb.co.com/tTLPGkMw/Linked-In-Cover.png)
 
 
 
