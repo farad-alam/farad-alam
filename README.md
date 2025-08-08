@@ -11,76 +11,6 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 
 ## 🛠 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-black?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF3F5D?style=for-the-badge&logo=framer&logoColor=white)
-
-**UI Libraries & Tools:** SweetAlert, Lottie, React Toastify, React Tooltip, Swiper.js, React Rating Stars  
-**State Management & Routing:** React Router, Context API  
-**API & Backend Interaction:** Fetch API, Axios, Postman  
-**Database (Basic Integration):** Firebase, MongoDB, PostgreSQL  
-
----
-
-## 📌 What I Do
-
-- 🖌 Create **pixel-perfect** UIs with modern frameworks & libraries  
-- 🔄 Integrate APIs & manage data seamlessly  
-- ✨ Add smooth animations & engaging interactions  
-- 📱 Make applications **fully responsive & mobile-friendly**  
-- 🛠 Write **clean, reusable, and scalable** code  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📬 Contact me
-
-I'm open to collaboration and job opportunities — feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=Follow&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)  
-[![WhatsApp](https://img.shields.io/static/v1?label=WhatsApp&message=Chat&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_COUNTRYCODEPHONENUMBER)
-
-
-## Things I use on a daily basis
-
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
@@ -108,11 +38,6 @@ I'm open to collaboration and job opportunities — feel free to reach out!
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=2d79c7">
 </a>
 
-
-
-
-
-
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
@@ -134,10 +59,41 @@ I'm open to collaboration and job opportunities — feel free to reach out!
 </p>
 
 
-### Hi there, I'm Farad Alam Foisal 👋
-A dedicated Django developer and backend engineer with a strong focus on building scalable web applications and APIs. My expertise lies in creating robust, secure systems that power modern web experiences. I have a passion for solving complex backend challenges and continuously expanding my technical skill set.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-black?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF3F5D?style=for-the-badge&logo=framer&logoColor=white)
+
+**UI Libraries & Tools:** SweetAlert, Lottie, React Toastify, React Tooltip, Swiper.js, React Rating Stars  
+**State Management & Routing:** React Router, Context API  
+**API & Backend Interaction:** Fetch API, Axios, Postman  
+**Database (Basic Integration):** Firebase, MongoDB, PostgreSQL  
 
 ---
+
+## 📌 What I Do
+
+- 🖌 Create **pixel-perfect** UIs with modern frameworks & libraries  
+- 🔄 Integrate APIs & manage data seamlessly  
+- ✨ Add smooth animations & engaging interactions  
+- 📱 Make applications **fully responsive & mobile-friendly**  
+- 🛠 Write **clean, reusable, and scalable** code  
+
+---
+
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+---
+
+
 
 ### 🚀 Skills & Technologies
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -157,7 +113,7 @@ A dedicated Django developer and backend engineer with a strong focus on buildin
 ---
 
 ### 🌱 Currently Learning
-- React for front-end development
+- Node.js for backend-end development
 - API development with GraphQL
 
 ---
