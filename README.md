@@ -59,7 +59,7 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 
 </p>
 
----
+--
 
 **UI Libraries & Tools:** SweetAlert, Lottie, React Toastify, React Tooltip, Swiper.js, React Rating Stars, Framer Motion
 **State Management & Routing:** React Router, Context API  
@@ -101,9 +101,3 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 - **Email**: [farad.dev@gmail.com](mailto:farad.dev@gmail.com)
 - **Phone**: +8801575061066
 
-
----
-
-### 📫 How to reach me
-- **Email**: [farad.dev@gmail.com](mailto:farad.dev@gmail.com)
-- **LinkedIn**: [Farad Alam Foisal](https://www.linkedin.com/in/farad-alam-foisal/)
