@@ -10,6 +10,30 @@ I'm open to collaboration and job opportunities — feel free to reach out!
 [![WhatsApp](https://img.shields.io/static/v1?label=WhatsApp&message=Chat&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_COUNTRYCODEPHONENUMBER)
 
 
+## Things I use on a daily basis
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+
+
+
 ### Hi there, I'm Farad Alam Foisal 👋
 A dedicated Django developer and backend engineer with a strong focus on building scalable web applications and APIs. My expertise lies in creating robust, secure systems that power modern web experiences. I have a passion for solving complex backend challenges and continuously expanding my technical skill set.
 
