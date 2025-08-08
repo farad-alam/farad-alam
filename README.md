@@ -1,3 +1,8 @@
+![Banar]([https://example.com/logo.png](https://i.ibb.co.com/tTLPGkMw/Linked-In-Cover.png))
+
+
+
+
 ### Hi there, I'm Farad Alam Foisal 👋
 A dedicated Django developer and backend engineer with a strong focus on building scalable web applications and APIs. My expertise lies in creating robust, secure systems that power modern web experiences. I have a passion for solving complex backend challenges and continuously expanding my technical skill set.
 
