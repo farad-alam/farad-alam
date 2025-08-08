@@ -1,6 +1,13 @@
 ![Banar](https://i.ibb.co.com/vxcGtdZJ/For-GIthub.png)
 
 
+## 📬 Contact me
+
+I'm open to collaboration and job opportunities — feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=Follow&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)  
+[![WhatsApp](https://img.shields.io/static/v1?label=WhatsApp&message=Chat&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_COUNTRYCODEPHONENUMBER)
 
 
 ### Hi there, I'm Farad Alam Foisal 👋
