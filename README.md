@@ -88,7 +88,8 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Farad on LinkedIn"/>](https://www.linkedin.com/in/farad-alam-foisal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://farad-alam.vercel.app/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Farad on Twitter"/>](https://x.com/farad_alamv)
-[![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=email&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
 
 ---
 
