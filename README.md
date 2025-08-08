@@ -85,9 +85,10 @@ I craft **beautiful, responsive, and interactive** web experiences with a focus 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/farad-alam-foisal/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/web.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://farad-alam.vercel.app/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://x.com/farad_alamv)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Farad on LinkedIn"/>](https://www.linkedin.com/in/farad-alam-foisal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://farad-alam.vercel.app/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Farad on Twitter"/>](https://x.com/farad_alamv)
+[![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=email&logoColor=white)](https://twitter.com/your-handle)
 
 ---
 
